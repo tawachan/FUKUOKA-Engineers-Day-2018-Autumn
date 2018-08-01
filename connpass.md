@@ -1,4 +1,8 @@
-# FUKUOKA Engineers Day 
+今年2月に開催したあの **FUKUOKA Engineers Day** をまた開催します！
+
+前回の様子は [こちら(まとめ)](https://dev.classmethod.jp/study_meeting/fukuoka-engineers-day-2018-all-sessions/) や [こちら(connpass)](https://engineers-day.connpass.com/event/74240/) をご覧ください
+
+# FUKUOKA Engineers Day
 - **福岡**のエンジニアによる
 - **福岡**のエンジニアのためのイベント
 - **普段**のこと、**チャレンジ中**のこと
@@ -6,7 +10,7 @@
 - 思いっきり**アウトプット**してみませんか？
 
 # セッションについて
-- 登壇者の方は [こちら](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018) のリポジトリを参照してください
+- 登壇者の方は [こちら](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn) のリポジトリを参照してください
 
 # スピーカー募集要項
 - 福岡、もしくはゆかりのあるエンジニア
@@ -43,7 +47,7 @@
 - 無料
 
 ## 懇親会
-TBD
+- 終了後、そのまま懇親会があります
 
 ## 共催
 - Engineer Lab. Fukuoka
