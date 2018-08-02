@@ -127,8 +127,15 @@
 説明をここに入れる
 
 ## 個人スポンサー
+
 ### 田中孝明
 
-![田中孝明](https://d19ta9rijs3cxg.cloudfront.net/wp-content/uploads/sites/2/2017/07/58eb404b520f67ff27b8fef18df34b2c.jpg)
+<img border="0" src="https://pbs.twimg.com/profile_images/1863536184/icon_400x400.JPG" width="100" height="100">
+
+不足分は自腹ずら
+
+### 松村亮輔
+
+<img border="0" src="https://pbs.twimg.com/profile_images/628143383769300992/STpR0FMP_400x400.jpg" width="100" height="100">
 
 不足分は自腹ずら
