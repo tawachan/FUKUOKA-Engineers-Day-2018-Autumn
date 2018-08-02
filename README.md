@@ -1,6 +1,6 @@
-# FUKUOKA Engineers Day 2018 ~Autumn~
+# FUKUOKA Engineers Day 2018 Autumn
 
-[FUKUOKA Engineers Day 2018 ~Autumn~](https://engineers-day.connpass.com/event/91473/) の発表のネタ置き場です
+[FUKUOKA Engineers Day 2018 Autumn](https://engineers-day.connpass.com/event/91473/) の発表のネタ置き場です
 
 ## タイムテーブル
 - [TimeTable.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn/blob/master/TimeTable.md)
