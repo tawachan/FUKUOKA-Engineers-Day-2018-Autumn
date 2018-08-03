@@ -4,12 +4,14 @@
 
 ## タイムテーブル
 - [TimeTable.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn/blob/master/TimeTable.md)
-    - 20分枠・10分枠の方で、発表順に希望のある方はこちらに名前を埋めてプルリクしてください
+    - 20分枠・15分枠・10分枠の方で、発表順に希望のある方はこちらに名前を埋めてプルリクしてください
     - 特に希望がなければランダムに割り振ります
 
 ## セッション
 - 20分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
     - [Sessions_20min.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn/blob/master/Sessions_20min.md)
+- 15分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
+    - [Sessions_15min.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn/blob/master/Sessions_15min.md)
 - 10分枠の方で、発表内容が決まっている方はこちらにプルリクしてください
     - [Sessions_10min.md](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2018-Autumn/blob/master/Sessions_10min.md)
 
