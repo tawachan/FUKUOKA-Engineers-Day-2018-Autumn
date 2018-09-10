@@ -22,7 +22,7 @@
 | 14:20 - 14:35 | 垣花　暁 | 15分セッション-3 |
 | 14:35 - 14:50 | 清家　史郎 [@seike460](https://twitter.com/seike460) | Replace PHP Using Elixir |
 | 14:50 - 15:00 |  | 休憩 |
-| 15:00 - 15:20 | tafuji  | タイトル |
+| 15:00 - 15:20 | 藤本 武 [tafuji](https://connpass.com/user/Takeshi_Fujimoto/)  | Visual Studio Live Share をつかってみよう |
 | 15:20 - 15:40 | 尾田 博仁 | みんなで Hanami をしよう |
 | 15:40 - 16:00 | フレディ | Swiftでつくるインタプリタのおはなし（仮） |
 | 16:00 - 16:20 |  | 休憩 |
