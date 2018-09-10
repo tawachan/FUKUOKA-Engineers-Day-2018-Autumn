@@ -102,15 +102,15 @@ AWS SAMやCloudFormationなどを利用したサーバーレスアプリケー�
 
 ### タイトル
 
-***セッションタイトルをここに記載してください***
+Vue.jsとSolidityでDapps
 
 ### 登壇者
 
-***登壇者名をここに記載してください***
+西 武史 [@_takeshi_24](https://twitter.com/_takeshi_24)
 
 ### 概要
 
-***登壇者名をここに記載してください***
+Vue.jsとSolidityを使ってEthereumプラットフォーム上で動作するDapps開発について話します。
 
 ***
 
