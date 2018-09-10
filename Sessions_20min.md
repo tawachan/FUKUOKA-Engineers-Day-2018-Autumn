@@ -58,15 +58,15 @@ AngularはGoogleが中心となって開発しているフロントエンドフ�
 
 ### タイトル
 
-***セッションタイトルをここに記載してください***
+Visual Studio Live Share をつかってみよう
 
 ### 登壇者
 
-***登壇者名をここに記載してください***
+藤本 武 [tafuji](https://connpass.com/user/Takeshi_Fujimoto/)
 
 ### 概要
 
-***登壇者名をここに記載してください***
+[Visual Studio Live Share](https://visualstudio.microsoft.com/ja/services/live-share/) は、リアルタイムで共同開発を行うための拡張機能です。本セッションでは、デモを通して、Visual Studio Live Share の良さをお伝えできればと考えております。
 
 ***
 
