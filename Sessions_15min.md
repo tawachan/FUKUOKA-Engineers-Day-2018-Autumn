@@ -22,15 +22,15 @@ AWS SAMやCloudFormationなどを利用したサーバーレスアプリケー�
 
 ### タイトル
 
-***セッションタイトルをここに記載してください***
+Amazon Kinesis Data FirehoseとAmazon QuickSightでお手軽BI構築
 
 ### 登壇者
 
-***登壇者名をここに記載してください***
+宮末　啓吾 [@foxtrackjp](https://twitter.com/foxtrackjp)
 
 ### 概要
 
-***登壇者名をここに記載してください***
+Amazon Kinesis Data FirehoseとAmazon QuickSightでBIっぽい物を作ってみよう
 
 ***
 
