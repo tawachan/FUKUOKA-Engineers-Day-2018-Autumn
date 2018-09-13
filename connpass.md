@@ -81,7 +81,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 13:30 - 13:40 | skanmera | 10分セッション-8 |
 | 13:40 - 13:55 | tommy_tomtoru  | 15分セッション-1 |
 | 13:55 - 14:05 |  | 休憩 |
-| 14:05 - 14:20 | foxtrackjp | 15分セッション-2 |
+| 14:05 - 14:20 | 宮末　啓吾 [@foxtrackjp](https://twitter.com/foxtrackjp) | Amazon Kinesis Data FirehoseとAmazon QuickSightでお手軽BI構築 |
 | 14:20 - 14:35 | 垣花　暁 | 15分セッション-3 |
 | 14:35 - 14:50 | 清家　史郎 [@seike460](https://twitter.com/seike460) | Replace PHP Using Elixir |
 | 14:50 - 15:00 |  | 休憩 |
