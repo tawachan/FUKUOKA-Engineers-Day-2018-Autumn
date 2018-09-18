@@ -22,15 +22,15 @@ AWS SAMやCloudFormationなどを利用したサーバーレスアプリケー�
 
 ### タイトル
 
-***セッションタイトルをここに記載してください***
+Web Componentsの動向とPolymer
 
 ### 登壇者
 
-***登壇者名をここに記載してください***
+本田 裕介 [@ponday_dev](https://twitter.com/ponday_dev)
 
 ### 概要
 
-***登壇者名をここに記載してください***
+前回発表以降のWeb Componentsの動向と、Googleが提供するWeb Componentsを活用したライブラリ『Polymer』を紹介します。
 
 ***
 
