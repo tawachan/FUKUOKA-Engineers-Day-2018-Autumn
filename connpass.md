@@ -2,6 +2,9 @@
 
 前回の様子は [こちら(まとめ)](https://dev.classmethod.jp/study_meeting/fukuoka-engineers-day-2018-all-sessions/) や [こちら(connpass)](https://engineers-day.connpass.com/event/74240/) をご覧ください
 
+**10/5(金) に後夜祭イベントやります！**
+- [FUKUOKA Engineers Day 2018 ~After party~ ](https://engineers-day.connpass.com/event/100759/)
+
 # FUKUOKA Engineers Day
 - **福岡**のエンジニアによる
 - **福岡**のエンジニアのためのイベント
@@ -67,7 +70,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 時間          | スピーカー | タイトル |
 |---------------|--------------------|------------|
 | 10:00 - 10:10 | 松村 亮輔[@rxpaki](https://twitter.com/rxpaki) | オープニング |
-| 10:10 - 10:30 | ponday  | 20分セッション-1 |
+| 10:10 - 10:30 | 本田 裕介 [@ponday_dev](https://twitter.com/ponday_dev)  | Web Componentsの動向とPolymer |
 | 10:20 - 10:50 | 新福　宜侑 [@puku0x](https://twitter.com/puku0x) | Angularの今とこれから |
 | 10:50 - 11:05 |  | 休憩 |
 | 11:05 - 11:15 | dsk_tsutsu | 10分セッション-1 |
@@ -78,7 +81,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 13:00 - 13:10 | Yusuke Otawa | 10分セッション-5 |
 | 13:10 - 13:20 | 西 武史 [@_takeshi_24](https://twitter.com/_takeshi_24) | Vue.jsとSolidityでDapps |
 | 13:20 - 13:30 | 森建 | 10分セッション-7 |
-| 13:30 - 13:40 | skanmera | 10分セッション-8 |
+| 13:30 - 13:40 | skanmera | TowerDefenseを強化学習でクリアしてみた話 |
 | 13:40 - 13:55 | tommy_tomtoru  | 15分セッション-1 |
 | 13:55 - 14:05 |  | 休憩 |
 | 14:05 - 14:20 | 宮末　啓吾 [@foxtrackjp](https://twitter.com/foxtrackjp) | Amazon Kinesis Data FirehoseとAmazon QuickSightでお手軽BI構築 |
