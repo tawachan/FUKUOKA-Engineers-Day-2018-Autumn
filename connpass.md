@@ -3,6 +3,7 @@
 前回の様子は [こちら(まとめ)](https://dev.classmethod.jp/study_meeting/fukuoka-engineers-day-2018-all-sessions/) や [こちら(connpass)](https://engineers-day.connpass.com/event/74240/) をご覧ください
 
 **10/5(金) に後夜祭イベントやります！**
+
 - [FUKUOKA Engineers Day 2018 ~After party~ ](https://engineers-day.connpass.com/event/100759/)
 
 # FUKUOKA Engineers Day
@@ -82,7 +83,7 @@ Fukuoka Growth Next によるエンジニアの成長機会を支援するプロ
 | 13:10 - 13:20 | 西 武史 [@_takeshi_24](https://twitter.com/_takeshi_24) | Vue.jsとSolidityでDapps |
 | 13:20 - 13:30 | 森建 | 10分セッション-7 |
 | 13:30 - 13:40 | skanmera | TowerDefenseを強化学習でクリアしてみた話 |
-| 13:40 - 13:55 | tommy_tomtoru  | 15分セッション-1 |
+| 13:40 - 13:55 | 冨永　亨  @tommy_tomtoru  | 来客対応システムを作った |
 | 13:55 - 14:05 |  | 休憩 |
 | 14:05 - 14:20 | 宮末　啓吾 [@foxtrackjp](https://twitter.com/foxtrackjp) | Amazon Kinesis Data FirehoseとAmazon QuickSightでお手軽BI構築 |
 | 14:20 - 14:35 | 垣花　暁 | 物流と在庫管理のシステムについて語りたい |
